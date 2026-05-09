@@ -9,7 +9,7 @@ The gameplay combines resource management, navigation, time pressure, and enviro
 
 ---
 
-# 🎮 Core Gameplay
+# Core Gameplay
 
 The railway network is constantly active:
 
@@ -44,7 +44,7 @@ The game progressively becomes harder by increasing:
 
 ---
 
-## 🛤️Railway Network
+## Railway Network
 
 The map contains a complete interconnected railway system featuring:
 
