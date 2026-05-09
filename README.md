@@ -129,7 +129,7 @@ The game uses AABB-based collision detection for:
 
 ---
 
-# 🎹 Controls
+#  Controls
 
 | Key | Action |
 |---|---|
